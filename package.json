@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_5th",
+  "version": "1.0.0",
+  "description": "### バージョンについて Node.js v22.1.0<br>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2"
+  }
+}
